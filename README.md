@@ -62,6 +62,10 @@ format:
 - [Reinforcement Learning with Human Feedback: Learning Dynamic Choices via Pessimism](https://arxiv.org/abs/2305.18438)  
   - Zihao Li, Zhuoran Yang, Mengdi Wang
 
+- [RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/abs/2309.00267)  
+  - Harrison Lee, Samrat Phatale, Hassan Mansoor, Thomas Mesnard, Johan Ferret, Kellie Lu, Colton Bishop, Ethan Hall, Victor Carbune, Abhinav Rastogi, Sushant Prakash
+
+
 - [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)  
   - John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov
 
