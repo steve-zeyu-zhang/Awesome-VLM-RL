@@ -23,14 +23,14 @@ Multi-Modal RL agents focus on learning from video (images), language (text), or
 - [Awesome Multi-Modal Reinforcement Learning](#awesome-multi-modal-reinforcement-learning)
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
-  - [Papers](#papers)
-    - [General-RL](#General-RL)
-    - [VLM-RL](#VLM-RL)
-    - [Generative-RL](#Generative-RL)
+  - [Citation](#citation)
+  - [General-RL](#General-RL)
+  - [VLM-RL](#VLM-RL)
+  - [Generative-RL](#Generative-RL)
   - [Contributing](#contributing)
   - [License](#license)
 
-## Papers
+## Citation
 
 ```
 format:
@@ -40,7 +40,7 @@ format:
   - experiment environment.
 ```
 
-### General-RL
+## General-RL
 
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)  
   - Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe
@@ -91,7 +91,7 @@ format:
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)  
   - DeepSeek-AI
   
-### VLM-RL
+## VLM-RL
 - [DrM: Mastering Visual Reinforcement Learning through Dormant Ratio Minimization](https://openreview.net/pdf?id=MSe8YFbhUE)
   - Guowei Xu, Ruijie Zheng, Yongyuan Liang, Xiyao Wang, Zhecheng Yuan, Tianying Ji, Yu Luo, Xiaoyu Liu, Jiaxin Yuan, Pu Hua, Shuzhen Li, Yanjie Ze, Hal Daumé III, Furong Huang, Huazhe Xu
   - Keyword: Visual RL; Dormant Ratio
@@ -112,7 +112,7 @@ format:
   - Keyword: deep reinforcement learning, visual reinforcement learning, object-centric, robotic object manipulation, compositional generalization
   - ExpEnv: [IsaacGym](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
 
-### Generative-RL
+## Generative-RL
 - [PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794)(**<font color="red">notable top 5%</font>**) 
   - Xi Chen, Xiao Wang, Soravit Changpinyo, AJ Piergiovanni, Piotr Padlewski, Daniel Salz, Sebastian Goodman, Adam Grycner, Basil Mustafa, Lucas Beyer, Alexander Kolesnikov, Joan Puigcerver, Nan Ding, Keran Rong, Hassan Akbari, Gaurav Mishra, Linting Xue, Ashish Thapliyal, James Bradbury, Weicheng Kuo, Mojtaba Seyedhosseini, Chao Jia, Burcu Karagol Ayan, Carlos Riquelme, Andreas Steiner, Anelia Angelova, Xiaohua Zhai, Neil Houlsby, Radu Soricut
   - Keyword: amazing zero-shot, language component and visual component
