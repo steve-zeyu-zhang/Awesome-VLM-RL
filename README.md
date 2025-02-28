@@ -1,4 +1,4 @@
-# Awesome RL4VLMs
+# Awesome VLM-RL
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 ![GitHub stars](https://img.shields.io/github/stars/steve-zeyu-zhang/Awesome-VLM-RL?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/steve-zeyu-zhang/Awesome-VLM-RL?color=9cf)
@@ -13,7 +13,7 @@ This is the github repository for the survey paper:
 >
 
 ```
-@misc{Awesome_RL4VLMs,
+@misc{VLM_RL,
 	title = {Reinforcement Learning for Visual-Language Models: A Survey},
 	url = {https://github.com/steve-zeyu-zhang/Awesome-VLM-RL},
 	author = {Author et al.},
