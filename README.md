@@ -42,30 +42,23 @@ format:
 
 ### General-RL
 
-- [Vision Language Models are In-Context Value Learners](https://openreview.net/forum?id=friHAl5ofG)  
-  - Yecheng Jason Ma, Joey Hejna, Chuyuan Fu, Dhruv Shah, Jacky Liang, Zhuo Xu, Sean Kirmani, Peng Xu, Danny Driess, Ted Xiao, Osbert Bastani, Dinesh Jayaraman, Wenhao Yu, Tingnan Zhang, Dorsa Sadigh, Fei Xia  
-  - Key: robot learning, vision-language model, value estimation, manipulation  
-  - ExpEnv: more than 300 distinct real-world tasks across diverse robot platforms, including bimanual manipulation tasks
+- [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)  
+  - Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe
 
-- [TopoNets: High performing vision and language models with brain-like topography](https://openreview.net/forum?id=THqWPzL00e)  
-  - Mayukh Deb, Mainak Deb, Apurva Ratan Murty  
-  - Key: topography, neuro-inspired, convolutional neural networks, Transformers, visual cortex, neuroscience  
-  - ExpEnv: ResNet-18, ResNet-50, ViT, GPT-Neo-125M, NanoGPT
+- [Reinforcement Learning with Human Feedback: Learning Dynamic Choices via Pessimism](https://arxiv.org/abs/2305.18438)  
+  - Zihao Li, Zhuoran Yang, Mengdi Wang
 
-- [LOKI: A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models](https://openreview.net/forum?id=z8sxoCYgmd)  
-  - Junyan Ye, Baichuan Zhou, Zilong Huang, Junan Zhang, Tianyi Bai, Hengrui Kang, Jun He, Honglin Lin, Zihao Wang, Tong Wu, Zhizheng Wu, Yiping Chen, Dahua Lin, Conghui He, Weijia Li  
-  - Key: LMMs, Deepfake, Multimodality  
-  - ExpEnv: Video, Image, 3D, Text, Audio
+- [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)  
+  - John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov
 
-- [Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models](https://openreview.net/forum?id=uAFHCZRmXk)  
-  - Simon Schrodi, David T. Hoffmann, Max Argus, Volker Fischer, Thomas Brox  
-  - Key: CLIP, modality gap, object bias, contrastive loss, data-centric, vision language models, VLM  
-  - ExpEnv: Contrastive Vision-Language Models (VLMs) Analysis
+- [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)  
+  - Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn
+ 
+- [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)  
+  - Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo
   
-- [Multi-Robot Motion Planning with Diffusion Models](https://openreview.net/forum?id=AUCYptvAf3)  
-  - Yorai Shaoul, Itamar Mishani, Shivam Vats, Jiaoyang Li, Maxim Likhachev  
-  - Key: Multi-Agent Planning, Robotics, Generative Models  
-  - ExpEnv: Simulated logistics environments
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)  
+  - DeepSeek-AI
   
 ### VLM-RL
 - [DrM: Mastering Visual Reinforcement Learning through Dormant Ratio Minimization](https://openreview.net/pdf?id=MSe8YFbhUE)
