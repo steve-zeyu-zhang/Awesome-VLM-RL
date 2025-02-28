@@ -1,14 +1,28 @@
-# Awesome Reinforcement Learning for Visual-Language Models
+# Awesome RL4VLMs
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
-![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-multi-modal-reinforcement-learning&left_text=Visitors)
-[![docs](https://img.shields.io/badge/docs-latest-blue)](https://github.com/opendilab/awesome-multi-modal-reinforcement-learning)
-![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-multi-modal-reinforcement-learning?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-multi-modal-reinforcement-learning?color=9cf)
-[![GitHub license](https://img.shields.io/github/license/opendilab/awesome-multi-modal-reinforcement-learning)](https://github.com/opendilab/awesome-multi-modal-reinforcement-learning/blob/main/LICENSE)
+![GitHub stars](https://img.shields.io/github/stars/steve-zeyu-zhang/Awesome-VLM-RL?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/steve-zeyu-zhang/Awesome-VLM-RL?color=9cf)
+[![GitHub license](https://img.shields.io/github/license/steve-zeyu-zhang/Awesome-VLM-RL)](https://github.com/steve-zeyu-zhang/Awesome-VLM-RL/blob/main/LICENSE)
 
-This is a collection of research papers for **Multi-Modal reinforcement learning (MMRL)**.
-And the repository will be continuously updated to track the frontier of MMRL.
-Some papers may not be relevant to RL, but we include them anyway as they may be useful for the research of MMRL.
+This is the github repository for the survey paper:
+> **Reinforcement Learning for Visual-Language Models: A Survey**
+> 
+> Authors et al.
+>  
+> [**[arXiv]**]()
+>
+
+```
+@misc{Awesome_RL4VLMs,
+	title = {Reinforcement Learning for Visual-Language Models: A Survey},
+	url = {https://github.com/steve-zeyu-zhang/Awesome-VLM-RL},
+	author = {Author et al.},
+	date = {2025-02-28},
+	year = {2025},
+	month = {2},
+	day = {28},
+}
+```
 
 Welcome to follow and star!
 
@@ -23,14 +37,14 @@ Multi-Modal RL agents focus on learning from video (images), language (text), or
 - [Awesome Multi-Modal Reinforcement Learning](#awesome-multi-modal-reinforcement-learning)
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
-  - [Citation](#citation)
-  - [General-RL](#General-RL)
-  - [VLM-RL](#VLM-RL)
-  - [Generative-RL](#Generative-RL)
+  - [Papers](#papers)
+    - [General-RL](#General-RL)
+    - [VLM-RL](#VLM-RL)
+    - [Generative-RL](#Generative-RL)
   - [Contributing](#contributing)
   - [License](#license)
 
-## Citation
+## Papers
 
 ```
 format:
@@ -40,7 +54,7 @@ format:
   - experiment environment.
 ```
 
-## General-RL
+### General-RL
 
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)  
   - Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe
@@ -91,7 +105,7 @@ format:
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)  
   - DeepSeek-AI
   
-## VLM-RL
+### VLM-RL
 - [DrM: Mastering Visual Reinforcement Learning through Dormant Ratio Minimization](https://openreview.net/pdf?id=MSe8YFbhUE)
   - Guowei Xu, Ruijie Zheng, Yongyuan Liang, Xiyao Wang, Zhecheng Yuan, Tianying Ji, Yu Luo, Xiaoyu Liu, Jiaxin Yuan, Pu Hua, Shuzhen Li, Yanjie Ze, Hal Daumé III, Furong Huang, Huazhe Xu
   - Keyword: Visual RL; Dormant Ratio
@@ -112,7 +126,7 @@ format:
   - Keyword: deep reinforcement learning, visual reinforcement learning, object-centric, robotic object manipulation, compositional generalization
   - ExpEnv: [IsaacGym](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
 
-## Generative-RL
+### Generative-RL
 - [PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794)(**<font color="red">notable top 5%</font>**) 
   - Xi Chen, Xiao Wang, Soravit Changpinyo, AJ Piergiovanni, Piotr Padlewski, Daniel Salz, Sebastian Goodman, Adam Grycner, Basil Mustafa, Lucas Beyer, Alexander Kolesnikov, Joan Puigcerver, Nan Ding, Keran Rong, Hassan Akbari, Gaurav Mishra, Linting Xue, Ashish Thapliyal, James Bradbury, Weicheng Kuo, Mojtaba Seyedhosseini, Chao Jia, Burcu Karagol Ayan, Carlos Riquelme, Andreas Steiner, Anelia Angelova, Xiaohua Zhai, Neil Houlsby, Radu Soricut
   - Keyword: amazing zero-shot, language component and visual component
