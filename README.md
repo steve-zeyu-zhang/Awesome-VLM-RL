@@ -117,6 +117,8 @@ format:
 - [O1 Replication Journey -- Part 3: Inference-time Scaling for Medical Reasoning](https://arxiv.org/abs/2501.06458)  
   - Zhongzhen Huang, Gui Geng, Shengyi Hua, Zhen Huang, Haoyang Zou, Shaoting Zhang, Pengfei Liu, Xiaofan Zhang
  
+- [Triple Preference Optimization: Achieving Better Alignment using a Single Step Optimization](https://arxiv.org/abs/2405.16681)  
+  - Amir Saeidi, Shivanshu Verma, Aswin RRV, Kashif Rasul, Chitta Baral
  
 - [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)  
   - Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo
