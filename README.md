@@ -2,7 +2,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 ![GitHub stars](https://img.shields.io/github/stars/steve-zeyu-zhang/Awesome-VLM-RL?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/steve-zeyu-zhang/Awesome-VLM-RL?color=9cf)
-[![GitHub license](https://img.shields.io/github/license/steve-zeyu-zhang/Awesome-VLM-RL)](https://github.com/steve-zeyu-zhang/Awesome-VLM-RL/blob/main/LICENSE)
 
 This is the github repository for the survey paper:
 > **Reinforcement Learning for Visual-Language Models: A Survey**
@@ -42,7 +41,6 @@ Multi-Modal RL agents focus on learning from video (images), language (text), or
     - [VLM-RL](#VLM-RL)
     - [Generative-RL](#Generative-RL)
   - [Contributing](#contributing)
-  - [License](#license)
 
 ## Papers
 
@@ -152,8 +150,3 @@ format:
 ## Contributing
 
 Our purpose is to make this repo even better. If you are interested in contributing, please refer to [HERE](CONTRIBUTING.md) for instructions in contribution.
-
-
-## License
-
-Awesome Multi-Modal Reinforcement Learning is released under the Apache 2.0 license.
