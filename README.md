@@ -75,6 +75,21 @@ format:
 - [SimPO: Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/abs/2305.18290)  
   - Yu Meng, Mengzhou Xia, Danqi Chen
  
+- [Nash Learning from Human Feedback](https://arxiv.org/abs/2312.00886)
+  - Rémi Munos, Michal Valko, Daniele Calandriello, Mohammad Gheshlaghi Azar, Mark Rowland, Zhaohan Daniel Guo, Yunhao Tang, Matthieu Geist, Thomas Mesnard, Andrea Michi, Marco Selvi, Sertan Girgin, Nikola Momchev, Olivier Bachem, Daniel J. Mankowitz, Doina Precup, Bilal Piot
+ 
+- [Noise Contrastive Alignment of Language Models with Explicit Rewards](https://arxiv.org/abs/2402.05369)
+  - Huayu Chen, Guande He, Lifan Yuan, Ganqu Cui, Hang Su, Jun Zhu
+ 
+- [KTO: Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/abs/2402.01306)
+  - Kawin Ethayarajh, Winnie Xu, Niklas Muennighoff, Dan Jurafsky, Douwe Kiela
+
+- [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
+  - Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, Quanquan Gu
+
+- [Iterative Reasoning Preference Optimization](https://arxiv.org/abs/2404.19733v1)
+  - Richard Yuanzhe Pang, Weizhe Yuan, Kyunghyun Cho, He He, Sainbayar Sukhbaatar, Jason Weston
+ 
 - [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)  
   - John Schulman, Sergey Levine, Philipp Moritz, Michael I. Jordan, Pieter Abbeel
  
